@@ -7,11 +7,11 @@ description: >
 tools: Read, Grep, Glob, Bash, WebFetch, WebSearch
 model: opus
 skills:
-  - earnings-evaluation
+  - earnings-eval-guide
   - financial-analysis
   - japanese-market-fundamentals
   - investment-criteria
-  - output-formats
+  - output-formats-eval
 ---
 
 # 決算評価官
@@ -30,7 +30,7 @@ skills:
 
 ## 分析タスク
 
-`earnings-evaluation` スキルの決算評価セクションに従い、以下を実行する:
+`earnings-eval-guide` スキルに従い、以下を実行する:
 
 ### 1. ヘッドライン数値の判定
 - 売上高、営業利益、経常利益、当期純利益を予測・コンセンサスと比較

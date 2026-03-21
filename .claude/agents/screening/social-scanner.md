@@ -8,9 +8,10 @@ tools: Read, Grep, Glob, Bash, WebFetch, WebSearch
 model: sonnet
 skills:
   - stock-screening
-  - investment-criteria
-  - japanese-market-fundamentals
-  - output-formats
+  - criteria-A
+  - criteria-B
+  - criteria-C
+  - output-formats-scan
 ---
 
 # SNSスキャナー

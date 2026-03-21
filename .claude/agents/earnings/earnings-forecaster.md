@@ -7,10 +7,10 @@ description: >
 tools: Read, Grep, Glob, Bash, WebFetch, WebSearch
 model: opus
 skills:
-  - earnings-evaluation
+  - earnings-forecast-guide
   - financial-analysis
   - japanese-market-fundamentals
-  - output-formats
+  - output-formats-forecast
 ---
 
 # 決算予測官
@@ -31,7 +31,7 @@ skills:
 
 ## 分析タスク
 
-`earnings-evaluation` スキルの決算予測セクションに従い、以下を実行する:
+`earnings-forecast-guide` スキルに従い、以下を実行する:
 
 ### 1. 予測の前提条件を整理
 - 前Q実績からの推移（季節性を考慮）
